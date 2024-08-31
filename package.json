@@ -1,0 +1,38 @@
+{
+  "name": "laravel-extension-pack",
+  "displayName": "Laravel extension pack",
+  "description": "A complete extension package for laravel.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "DEVSENSE.phptools-vscode",
+    "shufo.vscode-blade-formatter",
+    "onecentlin.laravel-blade",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "codingyu.laravel-goto-view",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "esbenp.prettier-vscode",
+    "Zignd.html-css-class-completion",
+    "bradlc.vscode-tailwindcss",
+    "necentlin.laravel-blade",
+    "ryannaddy.laravel-artisan",
+    "pgl.laravel-jump-controller",
+    "naoray.laravel-goto-components",
+    "glitchbl.laravel-create-view",
+    "IHunte.laravel-blade-wrapper",
+    "mikestead.dotenv",
+    "damms005.devdb",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "rexshi.phpdoc-comment-vscode-plugin",
+    "ahinkle.laravel-model-snippets",
+    "heybourn.headwind",
+    "recca0120.vscode-phpunit"
+  ]
+}
