@@ -3,6 +3,8 @@
   "displayName": "Laravel extension pack",
   "description": "A complete extension package for laravel.",
   "version": "0.0.1",
+  "publisher": "anilnabin25",
+  "repository": "https://github.com/anilnabin25/laravel-extension-pack",
   "engines": {
     "vscode": "^1.92.0"
   },
