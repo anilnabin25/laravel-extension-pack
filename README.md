@@ -16,7 +16,6 @@ Extension | Description
 [Laravel create view](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view) | Allows to generate laravel create view.
 [Laravel blade wrapper](https://marketplace.visualstudio.com/items?itemName=IHunte.laravel-blade-wrapper) | Allows to generate laravel blade wrapper.
 [Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) | Allows to format programmatically with the same syntax 
-[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) | Laravel blade snippets and syntax highlight support for Visual Studio Code.
 [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) | This extension provides Laravel routes, views and ... autocomplete for VSCode.
 [Laravel goto view](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) | Allows to directly jump to the view
 [Laravel model snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) | Allows to generate model snippetes.
