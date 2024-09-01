@@ -20,6 +20,7 @@
     "php",
     "snippet"
   ],
+  "icon": "images/icon.png",
   "extensionPack": [
     "DEVSENSE.phptools-vscode",
     "shufo.vscode-blade-formatter",
