@@ -2,7 +2,7 @@
   "name": "laravel-package",
   "displayName": "Laravel complete extension pack",
   "description": "A complete extension package for laravel.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "anilnabin25",
   "repository": {
     "type": "git",
