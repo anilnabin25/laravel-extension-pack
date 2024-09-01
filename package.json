@@ -1,14 +1,26 @@
 {
-  "name": "laravel-extension-pack",
-  "displayName": "Laravel extension pack",
+  "name": "laravel-package",
+  "displayName": "Laravel complete extension pack",
   "description": "A complete extension package for laravel.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "anilnabin25",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilnabin25/laravel-extension-pack"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "laravel",
+    "blade",
+    "php",
+    "snippet"
+  ],
+  "icon": "images/icon.png",
   "extensionPack": [
     "DEVSENSE.phptools-vscode",
     "shufo.vscode-blade-formatter",
